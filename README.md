@@ -19,6 +19,8 @@ Lớp: IE213.Q21
 
 ## Lab01: Hướng dẫn thiết lập môi trường MongoDB (Atlas, Compass) và thực hiện các thao tác cơ bản trong MongoDB Shell
 
+## Lab02: Thiết lập môi trường cho node, thực hành các thao tác trên tệp tin server.js,index.js, api/movies.route.js
+
 # Cách chạy chương trình
 
 ## Lab 01
@@ -27,6 +29,13 @@ Lớp: IE213.Q21
 2. Chạy lệnh:  
    `mongosh "mongodb+srv://<username>:<password>@<cluster-url>/" script.js`
 
+## Lab 2
+
+1. Mở Terminal và cd vào thư mục backend
+2. Chạy lệnh `npm run dev`
+
 # Nội dung đã hoàn thành
 
 ## Lab01: Thiết lập môi trường MongoDB (Atlas, Compass) và các yêu cầu bài tập từ 2.1 - 2.10
+
+## Lab02: Thiết lập backend với node, expressjs và hoàn thành các câu từ 2.1 - 2.7
