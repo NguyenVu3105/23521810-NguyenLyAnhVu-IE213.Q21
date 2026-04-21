@@ -23,6 +23,8 @@ Lớp: IE213.Q21
 
 ## Lab03: Hoàn thiện các route, controller, dao cho reviews và movies
 
+## Lab04: Thiết lập, một số package cho frontend với reactjs
+
 # Cách chạy chương trình
 
 ## Lab 01
@@ -31,16 +33,21 @@ Lớp: IE213.Q21
 2. Chạy lệnh:  
    `mongosh "mongodb+srv://<username>:<password>@<cluster-url>/" script.js`
 
-## Lab 2
+## Lab 02
 
 1. Mở Terminal và cd vào thư mục backend
 2. Chạy lệnh `npm run dev`
 
-## Lab 3
+## Lab 03
 
 1. Mở Terminal và cd vào thư mục backend
 2. Chạy lệnh `npm run dev`
 3. Sử dụng các công cụ test API để thử
+
+## Lab 04
+
+1. Mở Terminal và cd vào thư mục frontend
+2. Chạy lệnh `npm start`
 
 # Nội dung đã hoàn thành
 
@@ -49,3 +56,5 @@ Lớp: IE213.Q21
 ## Lab02: Thiết lập backend với node, expressjs và hoàn thành các câu từ 2.1 - 2.7
 
 ## Lab03: Hoàn thành các yêu cầu từ Bài 1 - Bài 4
+
+## Lab03: Hoàn thành thiết lập frontend, cài một số package và tạo navbar qua bootstrap
