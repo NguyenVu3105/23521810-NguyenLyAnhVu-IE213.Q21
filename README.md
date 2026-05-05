@@ -17,13 +17,15 @@ Lớp: IE213.Q21
 
 # Mô tả ngắn gọn các Lab
 
-## Lab01: Hướng dẫn thiết lập môi trường MongoDB (Atlas, Compass) và thực hiện các thao tác cơ bản trong MongoDB Shell
+### Lab01: Hướng dẫn thiết lập môi trường MongoDB (Atlas, Compass) và thực hiện các thao tác cơ bản trong MongoDB Shell
 
-## Lab02: Thiết lập môi trường cho node, thực hành các thao tác trên tệp tin server.js,index.js, api/movies.route.js
+### Lab02: Thiết lập môi trường cho node, thực hành các thao tác trên tệp tin server.js,index.js, api/movies.route.js
 
-## Lab03: Hoàn thiện các route, controller, dao cho reviews và movies
+### Lab03: Hoàn thiện các route, controller, dao cho reviews và movies
 
-## Lab04: Thiết lập, một số package cho frontend với reactjs
+### Lab04: Thiết lập, một số package cho frontend với reactjs
+
+### Lab05: Xây dụng frontend với ReactJs
 
 # Cách chạy chương trình
 
@@ -49,12 +51,19 @@ Lớp: IE213.Q21
 1. Mở Terminal và cd vào thư mục frontend
 2. Chạy lệnh `npm start`
 
+## Lab 05
+
+1. Mở Terminal và lần lượt vào thư mục frontend, backend chạy `npm install` để cài các dependency
+2. Chạy lệnh `npm run dev` ở thư mục movie-reviews để khởi động frontend và backend
+
 # Nội dung đã hoàn thành
 
-## Lab01: Thiết lập môi trường MongoDB (Atlas, Compass) và các yêu cầu bài tập từ 2.1 - 2.10
+### Lab01: Thiết lập môi trường MongoDB (Atlas, Compass) và các yêu cầu bài tập từ 2.1 - 2.10
 
-## Lab02: Thiết lập backend với node, expressjs và hoàn thành các câu từ 2.1 - 2.7
+### Lab02: Thiết lập backend với node, expressjs và hoàn thành các câu từ 2.1 - 2.7
 
-## Lab03: Hoàn thành các yêu cầu từ Bài 1 - Bài 4
+### Lab03: Hoàn thành các yêu cầu từ Bài 1 - Bài 4
 
-## Lab03: Hoàn thành thiết lập frontend, cài một số package và tạo navbar qua bootstrap
+### Lab04: Hoàn thành thiết lập frontend, cài một số package và tạo navbar qua bootstrap
+
+### Lab05: Hoàn thiện phần kết nối frontend với backend, hiển thị movie detail và review.
