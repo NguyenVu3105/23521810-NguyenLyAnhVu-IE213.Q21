@@ -27,6 +27,8 @@ Lớp: IE213.Q21
 
 ### Lab05: Xây dụng frontend với ReactJs
 
+### Lab06: Tiếp tục hoàn thiện frontend ReactJS, thêm chức năng login, thêm/sửa/xoá review và phân trang danh sách movie
+
 # Cách chạy chương trình
 
 ## Lab 01
@@ -56,6 +58,11 @@ Lớp: IE213.Q21
 1. Mở Terminal và lần lượt vào thư mục frontend, backend chạy `npm install` để cài các dependency
 2. Chạy lệnh `npm run dev` ở thư mục movie-reviews để khởi động frontend và backend
 
+## Lab 06
+
+1. Mở Terminal và lần lượt vào thư mục frontend, backend chạy `npm install` để cài các dependency
+2. Chạy lệnh `npm run dev` ở thư mục movie-reviews để khởi động frontend và backend
+
 # Nội dung đã hoàn thành
 
 ### Lab01: Thiết lập môi trường MongoDB (Atlas, Compass) và các yêu cầu bài tập từ 2.1 - 2.10
@@ -67,3 +74,5 @@ Lớp: IE213.Q21
 ### Lab04: Hoàn thành thiết lập frontend, cài một số package và tạo navbar qua bootstrap
 
 ### Lab05: Hoàn thiện phần kết nối frontend với backend, hiển thị movie detail và review.
+
+### Lab06: Hoàn thiện chức năng đăng nhập, thêm/sửa/xoá review và lấy dữ liệu trang tiếp theo cho danh sách movie.
